@@ -1,88 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0B5ED7,100:7C3AED&text=Reza%20Esmaeil%20Gol&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%E2%80%A2%20AI%20%26%20SaaS%20Builder&descAlignY=58&animation=fadeIn" alt="Reza Esmaeil Gol" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Reza Esmaeil Gol — Full-Stack Developer, AI and SaaS Builder" />
 
-<a href="https://rezagol.ir"><img src="https://img.shields.io/badge/Website-rezagol.ir-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/reza-esmaeil-gol-610b1355"><img src="https://img.shields.io/badge/LinkedIn-Reza%20Esmaeil%20Gol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/rezagol_ir"><img src="https://img.shields.io/badge/X-%40rezagol__ir-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.youtube.com/@rezagol_ir"><img src="https://img.shields.io/badge/YouTube-%40rezagol__ir-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<br />
+
+[🌐 **Website**](https://rezagol.ir) · [💼 **LinkedIn**](https://www.linkedin.com/in/reza-esmaeil-gol-610b1355) · [𝕏 **X / Twitter**](https://x.com/rezagol_ir) · [▶️ **YouTube**](https://www.youtube.com/@rezagol_ir) · [📷 **Instagram**](https://instagram.com/rezagol.ir)
 
 </div>
 
 ## 👋 About Me
 
-I'm **Reza Esmaeil Gol**, a full-stack developer focused on building production-ready **web platforms, mobile apps, SaaS products, e-commerce systems, and AI-powered tools**.
+I'm **Reza Esmaeil Gol**, a full-stack web and mobile developer focused on turning real business problems into production-ready software.
 
-- 🚀 Building real products from idea to production
-- 🤖 Working on AI assistants, agents, RAG, automation and local/cloud model integration
-- 📱 Developing web, Android and cross-platform mobile applications
-- 🧩 Interested in scalable architecture, product UX, SEO and business automation
-- 🌐 Portfolio & work: **[rezagol.ir](https://rezagol.ir)**
+- 🚀 I build products from **idea → architecture → UI/UX → development → deployment**.
+- 🤖 I work on **AI assistants, agents, RAG, semantic search, automation and local/cloud model integration**.
+- 🌐 I build **SaaS platforms, business dashboards, e-commerce systems and SEO-focused websites**.
+- 📱 I develop **Android and cross-platform mobile applications** with Flutter, Kotlin and React Native.
+- 🧩 I care about **scalable architecture, security, performance, product UX and business automation**.
+- 🎯 Current direction: practical AI products that can connect to real tools, data and workflows.
+
+> **Code today. Build something better tomorrow. 🚀**
+
+---
+
+## 🚧 Currently Building
+
+<img src="./assets/currently-building-robatina.svg" width="100%" alt="Currently building Robatina — AI Assistant and Business Agent Platform" />
+
+**Robatina** is my current AI platform direction: one scalable core for intelligent assistants and business agents, with RAG, workflow automation, tool integrations and multiple vertical use-cases.
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,laravel,php,nodejs,python,flutter,kotlin,mysql,postgres,redis,mongodb,docker,git,github&perline=9" alt="Tech Stack" />
-</div>
-
-<br />
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</div>
+<img src="./assets/tech-stack.svg" width="100%" alt="Technology stack used by Reza Esmaeil Gol" />
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Snapshot
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aradinan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=aradinan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=aradinan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<img src="./assets/developer-snapshot.svg" width="100%" alt="Developer snapshot and focus areas" />
 
 ---
 
-## 🚀 What I Build
+## 🧠 Primary Languages
+
+<img src="./assets/languages.svg" width="100%" alt="Primary programming languages used in current work" />
+
+---
+
+## 🐍 Contribution Energy
+
+<img src="./assets/github-snake.svg" width="100%" alt="Contribution snake — keep contributing, keep growing" />
+
+---
+
+## ⭐ Featured Products & Brands
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🌐 Web & SaaS
-- Custom business platforms
-- Admin dashboards & CRM
-- E-commerce systems
-- Subscription & billing flows
-- SEO-focused production websites
-
+<a href="https://rezagol.ir"><img src="./assets/projects/rezagol.svg" width="100%" alt="RezaGol" /></a>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/projects/robatina.svg" width="100%" alt="Robatina" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://hseban.ir"><img src="./assets/projects/hseban.svg" width="100%" alt="HSEBAN" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://soratyar.ir"><img src="./assets/projects/soratyar.svg" width="100%" alt="SoratYar" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://rayanmobl.ir"><img src="./assets/projects/rayanmobl.svg" width="100%" alt="RayanMobl" /></a>
 </td>
 <td width="50%" valign="top">
 
-### 📱 Mobile & AI
-- Android & cross-platform apps
-- AI assistants & agents
-- RAG & semantic search
-- Workflow automation
-- Local / cloud AI integrations
+### 🔭 What I'm exploring next
+
+- Multi-agent business automation
+- Long-term memory for personal assistants
+- Human approval + tool execution flows
+- Local/cloud model routing
+- AI-native CRM and commerce workflows
+- Reliable mobile AI experiences
 
 </td>
 </tr>
@@ -90,19 +95,71 @@ I'm **Reza Esmaeil Gol**, a full-stack developer focused on building production-
 
 ---
 
-## ✨ Selected Products & Brands
+## 🛠 What I Build
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" valign="top">
 
-| Project | Focus | Link |
-|---|---|---|
-| **RezaGol** | Portfolio, development & academy | [rezagol.ir](https://rezagol.ir) |
-| **Robatina** | AI assistant & smart business agents | AI / Automation |
-| **HSEBAN** | HSE management SaaS | [hseban.ir](https://hseban.ir) |
-| **SoratYar** | Online invoice & business tools | [soratyar.ir](https://soratyar.ir) |
-| **RayanMobl** | Furniture e-commerce platform | [rayanmobl.ir](https://rayanmobl.ir) |
+### 🌐 Web & SaaS
+- Custom business platforms
+- Admin dashboards & CRM
+- Subscription & billing flows
+- E-commerce systems
+- SEO-focused websites
 
-</div>
+</td>
+<td width="25%" valign="top">
+
+### 📱 Mobile
+- Android applications
+- Flutter apps
+- Kotlin apps
+- React Native
+- PWA / hybrid apps
+
+</td>
+<td width="25%" valign="top">
+
+### 🤖 AI
+- AI assistants & agents
+- RAG & semantic search
+- Local LLM integrations
+- Workflow automation
+- Tool-connected agents
+
+</td>
+<td width="25%" valign="top">
+
+### 📈 Product
+- MVP → production
+- Architecture & UX
+- SEO & analytics
+- Business automation
+- Performance tuning
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔓 Public Repositories & Experiments
+
+A few public repositories available from this profile:
+
+- [`vertical-sidebar`](https://github.com/aradinan/vertical-sidebar) — UI / sidebar experiment
+- [`Portfolio-website-multi-langual`](https://github.com/aradinan/Portfolio-website-multi-langual) — multilingual portfolio project
+- [`wp-booster`](https://github.com/aradinan/wp-booster) — WordPress performance experiment
+- [`testtestqom`](https://github.com/aradinan/testtestqom) — public development/test repository
+
+Most commercial products and client systems are kept private.
+
+---
+
+## 🧭 Engineering Interests
+
+`AI Agents` · `RAG` · `SaaS Architecture` · `Laravel` · `Next.js` · `React` · `Flutter` · `Kotlin` · `Python` · `SEO` · `Automation` · `E-commerce` · `Developer Tools`
 
 ---
 
@@ -110,14 +167,14 @@ I'm **Reza Esmaeil Gol**, a full-stack developer focused on building production-
 
 <div align="center">
 
-**Open to interesting products, collaborations and technical challenges.**
+I’m open to **interesting products, collaborations, technical challenges and AI/SaaS opportunities**.
 
-[![Website](https://img.shields.io/badge/Website-rezagol.ir-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rezagol.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-esmaeil-gol-610b1355)
-[![Instagram](https://img.shields.io/badge/Instagram-%40rezagol.ir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezagol.ir)
+### [🌐 rezagol.ir](https://rezagol.ir)
 
-<img src="https://komarev.com/ghpvc/?username=aradinan&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
+[LinkedIn](https://www.linkedin.com/in/reza-esmaeil-gol-610b1355) · [X / Twitter](https://x.com/rezagol_ir) · [YouTube](https://www.youtube.com/@rezagol_ir) · [Instagram](https://instagram.com/rezagol.ir)
 
-### Code today. Build something better tomorrow. 🚀
+<br />
+
+**Build useful things. Ship. Learn. Improve. Repeat.**
 
 </div>
