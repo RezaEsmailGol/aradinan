@@ -60,7 +60,7 @@ I'm **Reza Esmaeil Gol**, a full-stack web and mobile developer focused on turni
 
 ---
 
-## ✨ Featured Open Source — لحن من
+## ✨ New Open Source Project — لحن من
 
 <a href="https://github.com/RezaEsmailGol/lahne-man">
   <img src="https://raw.githubusercontent.com/RezaEsmailGol/lahne-man/main/assets/lahne-man-cover.jpg" width="100%" alt="لحن من — ویرایش طبیعی متن فارسی با حفظ لحن نویسنده" />
@@ -68,13 +68,23 @@ I'm **Reza Esmaeil Gol**, a full-stack web and mobile developer focused on turni
 
 ### 🪶 [Lahne Man — لحن من](https://github.com/RezaEsmailGol/lahne-man)
 
-An open-source Persian writing skill that removes repetitive and machine-like writing patterns **without flattening the writer's personal voice**.
+**لحن من** یک ابزار متن‌باز فارسی برای طبیعی‌تر کردن متن و کم کردن کلیشه‌های ماشینی است، بدون اینکه لحن شخصی نویسنده را از بین ببرد.
+
+It is designed for Persian writing, AI-assisted content, technical text, captions and everyday writing — with a focus on preserving the writer's real voice.
+
+<p>
+  <img src="https://img.shields.io/github/stars/RezaEsmailGol/lahne-man?style=for-the-badge&logo=github&label=Stars" alt="Lahne Man Stars" />
+  <img src="https://img.shields.io/github/forks/RezaEsmailGol/lahne-man?style=for-the-badge&logo=github&label=Forks" alt="Lahne Man Forks" />
+  <img src="https://img.shields.io/github/license/RezaEsmailGol/lahne-man?style=for-the-badge&label=License" alt="Lahne Man License" />
+</p>
 
 `Persian` · `Writing` · `AI Skill` · `Open Source` · `MIT`
 
 ```bash
 npx skills add RezaEsmailGol/lahne-man --skill lahne-man --global --yes
 ```
+
+👉 **[View project / Star on GitHub](https://github.com/RezaEsmailGol/lahne-man)**
 
 ---
 
